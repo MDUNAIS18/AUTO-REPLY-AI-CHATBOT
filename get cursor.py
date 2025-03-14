@@ -3,4 +3,6 @@ import pyautogui
 while True:
     a = pyautogui.position()
     print(a)
-     #536 314 646 956
+
+
+# this code is use to identify the secure point position  
